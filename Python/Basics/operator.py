@@ -44,6 +44,8 @@ print(10 / 3)       # 3.3333333333333335
 
 # %  modulo
 #     Gives the "remainder of that devision" that was left over after division.
+#* **Modulo** → the operation of finding the remainder after division.
+# **Modulus** → the remainder/result of that operation.
 
 print(10 % 3)       # 1
 print(20 % 6)       # 2
